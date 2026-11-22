@@ -34,7 +34,7 @@ I demonstrated almost all of these workstreams to the CEO as they progressed, in
 ## 1. 2D SLAM, Localization & Navigation — built from scratch
 
 ```mermaid
-flowchart LR
+flowchart TD
     L[3D LiDAR<br/>point cloud] --> C[pointcloud → LaserScan]
     C --> F[self-return<br/>pole filter]
     F --> S[/scan/]
