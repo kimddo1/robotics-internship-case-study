@@ -9,10 +9,10 @@
 
 > **Note:** The source code is proprietary to the company, so this repository is a write-up only. It describes my role, the system design and the results. All diagrams are redrawn by me, and no company code or data is included.
 
-**Role:** Robotics Software Engineering Intern (one of two interns) · **Duration:** Jun 30 – Aug 27, 2026 (2 months)
-**Context:** R&D platform for a company building commercial airport service robots. The 3D work targeted their next-generation robot.
-**Platform:** Differential-drive indoor robot (AgileX Scout Mini base, 3D LiDAR, 9-axis IMU, RGB-D camera)
-**Stack:** ROS 2 Jazzy · Nav2 · slam_toolbox · AMCL · MOLA · AprilTag · Python · C++
+- **Role:** Robotics Software Engineering Intern (one of two interns) · **Duration:** Jun 30 – Aug 27, 2026 (2 months)
+- **Context:** R&D platform for a company building commercial airport service robots. The 3D work targeted their next-generation robot.
+- **Platform:** Differential-drive indoor robot (AgileX Scout Mini base, 3D LiDAR, 9-axis IMU, RGB-D camera)
+- **Stack:** ROS 2 Jazzy · Nav2 · slam_toolbox · AMCL · MOLA · AprilTag · Python · C++
 
 ---
 
